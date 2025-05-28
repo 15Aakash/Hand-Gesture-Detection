@@ -47,8 +47,7 @@ Consecutive frame validation is used to avoid accidental triggers of commands.
 
 Install the required libraries:
 
-```bash
-pip install opencv-python mediapipe numpy
+```bash pip install opencv-python mediapipe numpy bash```
 
 ## Run the Application
 bash

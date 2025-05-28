@@ -7,7 +7,7 @@ A real-time hand gesture recognition system using MediaPipe and OpenCV, allowing
 This project turns your hand into a virtual pen. By recognizing specific hand gestures, the system allows you to:
 
 - Start or stop drawing  
-- Change brush color  
+- Change brush colour  
 - Change brush thickness  
 - Clear the screen  
 - Save your drawing as an image  

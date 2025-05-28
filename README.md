@@ -50,7 +50,7 @@ Install the required libraries:
 ```bash 
 pip install opencv-python mediapipe numpy
 
-bash```
+```
 
 ## Run the Application
 bash

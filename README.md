@@ -49,3 +49,20 @@ Install the required libraries:
 
 ```bash
 pip install opencv-python mediapipe numpy
+
+**Run the Application**
+python air_draw.py
+
+Press q to quit the application.
+
+**Output Example**
+When you show 4 fingers, the current canvas will be saved as an image (e.g., drawing_1716922123.png) in the same directory.
+
+**Future Enhancements**
+- Add support for undo and redo functionality
+
+- Implement multi-hand support
+
+- Introduce gesture sequences for advanced actions
+
+- Integrate with voice controls or speech feedback

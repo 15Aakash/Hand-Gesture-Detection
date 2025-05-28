@@ -71,3 +71,11 @@ When you show 4 fingers, the current canvas will be saved as an image (e.g., dra
 
 - Integrate with voice controls or speech feedback
 
+## About
+
+This is a personal project by Aakash Kathirvel, built to explore gesture-based human-machine interaction systems using computer vision and artificial intelligence.
+
+Feel free to connect or contribute.  
+LinkedIn: [https://www.linkedin.com/in/aakash-k-382a14208/)
+
+
